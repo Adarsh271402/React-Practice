@@ -1,5 +1,7 @@
 # React Frontend Practice
 
+[Live Demo](https://react-practice-adarsh.netlify.app)
+
 Ten interview-style mini projects in one Vite + React app:
 
 1. Calculator
